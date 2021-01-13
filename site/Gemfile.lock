@@ -60,7 +60,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
-    redcarpet (3.5.0)
+    redcarpet (3.5.1)
     rouge (3.13.0)
     safe_yaml (1.0.5)
     sass (3.7.4)
@@ -83,7 +83,7 @@ DEPENDENCIES
   jekyll-seo-tag (~> 2.6, >= 2.6.1)
   jekyll-sitemap (~> 1.4)
   jekyll-titles-from-headings (~> 0.5.3)
-  redcarpet (~> 3.5)
+  redcarpet (~> 3.5, >= 3.5.1)
 
 BUNDLED WITH
-   2.0.2
+   1.17.3
